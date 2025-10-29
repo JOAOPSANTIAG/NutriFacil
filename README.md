@@ -66,7 +66,7 @@ Certifique-se de ter o Node.js (que inclui o npm) e o Angular CLI instalados em 
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone https://github.com/JOAOPSANTIAG/NutriFacil-Usabilidade.git
+    git clone https://github.com/JOAOPSANTIAG/NutriFacil.git
     ```
 
 2.  **Navegue até o Diretório do Projeto:**
